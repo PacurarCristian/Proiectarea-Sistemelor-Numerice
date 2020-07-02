@@ -1,0 +1,11 @@
+103
+~E 1 "./src/poarta_si_2.vhd" 1 poarta_si_2
+~A 1 "./src/poarta_si_2.vhd" 5 arhitectura_flux_de_date
+~E 1 "./src/poarta_sau_3.vhd" 1 poarta_sau_3
+~A 1 "./src/poarta_sau_3.vhd" 5 arhitectura_flux_de_date
+~E 1 "./src/poarta_xor_3.vhd" 1 poarta_xor_3
+~A 1 "./src/poarta_xor_3.vhd" 5 arhitectura_flux_de_date
+~E 1 "./src/sumator.vhd" 1 sumator
+~A 1 "./src/sumator2.vhd" 5 flux_de_date
+~A 1 "./src/sumator3.vhd" 5 comportamental
+~A 1 "./src/sumator1.vhd" 5 structural
